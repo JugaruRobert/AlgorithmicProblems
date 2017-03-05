@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1487173686 source:c:\users\robert\desktop\probleme c++\modul\prb10\main.cpp
+	<iostream>
+	<string.h>
+	"prb10.h"
+
+1487173661 c:\users\robert\desktop\probleme c++\modul\prb10\prb10.h
+
+1487173643 source:c:\users\robert\desktop\probleme c++\modul\prb10\prb10.cpp
+	<iostream>
+
